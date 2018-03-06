@@ -32,7 +32,7 @@ Note: "aba" is also a valid answer.
 3. 打印符合条件的函数
 
 ## 思路二
-refer to :
-https://www.felix021.com/blog/read.php?2040
-https://leetcode.com/problems/longest-palindromic-substring/description/
-https://leetcode.com/articles/longest-palindromic-substring/
+refer to :  
+https://www.felix021.com/blog/read.php?2040  
+https://leetcode.com/problems/longest-palindromic-substring/description/  
+https://leetcode.com/articles/longest-palindromic-substring/  
