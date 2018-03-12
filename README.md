@@ -7,6 +7,7 @@ Summarize weekly exercises (5 questions per week) for Scala.
 - https://github.com/pezy/LeetCode
 - https://zhuanlan.zhihu.com/p/25865715
 - http://blog.csdn.net/linhuanmars/article  
+- https://www.programcreek.com/2012/  
 ---
 |NO.|Title|Solution|Difficulty|Tag|
 |---|-----|--------|----------|---|
