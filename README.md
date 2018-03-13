@@ -18,4 +18,5 @@ Summarize weekly exercises (5 questions per week) for Scala.
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Scala](006.ZigZag%20Conversion/Solution.scala) |Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Scala](007.Reverse%20Integer/Solution.scala) |Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Scala](008.String%20to%20Integer%20(atoi)/Solution.scala) |Medium|
+|9|[009.Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Scala](009.Palindrome%20Number)/Solution.scala) |Easy|
 
