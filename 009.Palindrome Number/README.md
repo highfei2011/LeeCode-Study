@@ -11,6 +11,7 @@ You could also try reversing an integer. However, if you have solved the problem
 There is a more generic way of solving this problem.  
   
 # 题意
+判断一个正整数是否为回文数，简单说即，这个数字是否中心对称。
 
 # 参考
 解题思路[https://www.programcreek.com/2013/02/leetcode-palindrome-number-java/]  

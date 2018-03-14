@@ -1,13 +1,17 @@
 object Solution{
   def main(args:Array[String]):Unit={
-
+   val x= 12344321
+   println(s"Origin number is $x .")
+   val res=isPalindrome(x)
+   println(s"Origin number is $res .")
   }
   
   /**
     * Judgement the number is palindrome or not .
     */
-  def isPalindrome(x:Int):Boolean={
-                //negative numbers are not palindrome
+  def isPalindrome(input:Int):Boolean={
+             var x=input   
+             //negative numbers are not palindrome
 		if (x < 0){
 		 return  false
                 }else{
