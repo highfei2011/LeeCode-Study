@@ -21,4 +21,6 @@ Summarize weekly exercises (5 questions per week) for Scala.
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Scala](008.String%20to%20Integer%20(atoi)/Solution.scala) |Medium|Other | **done**|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Scala](009.Palindrome%20Number/Solution.scala) |Easy|Other | **done**|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Scala](010.Regular%20Expression%20Matching/Solution.scala) |Hard|Other | **to do**|
+|011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Scala](011.Container%20With%20Most%20Water/Solution.scala) |Medium|Other | **to do**|
+|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Scala](012.Integer%20to%20Roman/Solution.scala) |Medium|LinkedList | **to do**|
 
